@@ -1,0 +1,12 @@
+Black
+Kate
+27
+Programmer
+Black
+Valik
+27
+Builder
+Baranov
+Bob
+46
+Economist
