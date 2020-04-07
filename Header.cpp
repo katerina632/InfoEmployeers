@@ -134,9 +134,9 @@ int addEmployee(int* count)
 					
 					fout << "\t" << item.lastName << " " << item.firstName <<
 						"\n\t" << item.age << " years"
-						"\n\t" << item.position << endl;					
+						"\n\t" << item.position << endl;
 				}
-				else if (item.lastName == lastName&&index==0) {
+				else if (item.lastName != lastName&&index==1) {
 					isEmpty = true;
 				}
 			}
@@ -256,7 +256,7 @@ int addEmployee(int* count)
 					count++;
 				}
 
-				else if (item.age != showByAge&&index==0) {
+				else if (item.age != showByAge&&index==1) {
 					isEmpty = true;
 				}
 			}
@@ -322,7 +322,7 @@ int addEmployee(int* count)
 
 						count++;
 					}
-					else if (item.lastName[0] != firstLetter&&index==0) {
+					else if (item.lastName[0] != firstLetter&&index==1) {
 						isEmpty = true;
 					}
 				}

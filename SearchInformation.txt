@@ -1,0 +1,53 @@
+Portfolio of selected employee: 
+	Black Kate
+	27 years
+	Programmer
+	Black Valik
+	27 years
+	Builder
+Portfolio of selected employee: 
+	Baranov Bob
+	46 years
+	Economist
+Portfolio of selected employee: 
+	Baranov Bob
+	46 years
+	Economist
+Portfolio of selected employee: 
+	Baranov Bob
+	46 years
+	Economist
+Emloyees whose name begins with the letter -B : 
+1) Black Kate - Programmer
+Portfolio of selected employee: 
+	Black Kate
+	27 years
+	Programmer
+Portfolio of selected employee: 
+	Baranov Bob
+	46 years
+	Economist
+Portfolio of selected employee: 
+	Black Kate
+	27 years
+	Programmer
+	Black Valik
+	27 years
+	Builder
+Portfolio of selected employee: 
+	Baranov Bob
+	46 years
+	Economist
+Emloyees whose name begins with the letter -B : 
+1) Black Kate - Programmer
+2) Black Valik - Builder
+3) Baranov Bob - Economist
+Emloyees of the age -27 : 
+1) Black Kate - Programmer
+2) Black Valik - Builder
+Portfolio of selected employee: 
+	Baranov Bob
+	46 years
+	Economist
+Emloyees of the age -46 : 
+1) Baranov Bob - Economist
